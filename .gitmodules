@@ -1,0 +1,3 @@
+[submodule "bsdiff"]
+	path = bsdiff
+	url = git@github.com:CedarwareCorp/bsdiff.git
